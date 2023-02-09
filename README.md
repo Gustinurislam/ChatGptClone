@@ -1,1 +1,3 @@
 # ChatGPT - Messenger
+
+## Dependencies
