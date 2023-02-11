@@ -4,6 +4,6 @@
 
 ## Mobile :
 
-## Tablet
+## Tablet :
 
 ## Desktop
