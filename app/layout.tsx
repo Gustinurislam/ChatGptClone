@@ -4,6 +4,7 @@ import { getServerSession } from 'next-auth';
 import SessionProvider from '../components/SessionProvider';
 import Sidebar from '../components/Sidebar';
 import Login from '../components/Login';
+import ClientProvider from '../components/ClientProvider';
 
 export default async function RootLayout({
   children,
@@ -24,7 +25,9 @@ export default async function RootLayout({
               <div className="bg-[#202123] max-w-xs h-screen overflow-y-auto md:min-w-[20rem]">
                 <Sidebar />
               </div>
-              {/* ClientProvider - Notification  */}
+
+              <ClientProvider/>
+
               <div className="bg-primary flex-1">{children}</div>
             </div>
           )}
