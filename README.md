@@ -4,6 +4,6 @@
 
 ## Mobile :
 
-## Tablet : TEST 2
+## Tablet :
 
-## Desktop : test 1
+## Desktop :
