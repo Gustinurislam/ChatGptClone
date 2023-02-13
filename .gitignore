@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 .env.local/
+serviceAccountKey.json/
 /.pnp
 .pnp.js
 
