@@ -6,4 +6,4 @@
 
 ## Tablet :
 
-## Desktop : test 2
+## Desktop :
