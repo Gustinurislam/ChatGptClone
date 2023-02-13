@@ -3,7 +3,6 @@
 # dependencies
 node_modules/
 .env.local/
-serviceAccountKey.json/
 /.pnp
 .pnp.js
 
@@ -36,3 +35,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+serviceAccountKey.json
