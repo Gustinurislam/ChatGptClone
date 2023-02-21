@@ -1,4 +1,4 @@
-# ChatGPT - Messenger
+# ChatGPT Messenger
 
 ## Mobile
 ![Mobile View](ui/mobile.png)
