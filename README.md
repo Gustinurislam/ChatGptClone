@@ -1,9 +1,10 @@
 # ChatGPT - Messenger
 
-## Dependencies
+## Mobile
+![Mobile View](ui/mobile.png)
 
-## Mobile :
+## Tablet
+![Tablet View](ui/tablet.png)
 
-## Tablet :
-
-## Desktop :
+## Desktop
+![Desktop View](ui/desktop.png)
